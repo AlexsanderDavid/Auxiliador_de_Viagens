@@ -1,11 +1,8 @@
 # Auxiliador_de_Viagens
 O código lê os parâmetros solicitados e lhe diz o valor gasto e o tempo de chegada ao destino.
 
-Utilizando como variáveis:
-  Atenção no valor dos combustíveis, que deve ser atualizado com base em época e região.  
-    float: gas = 3.89, et = 2.29, ds = 2.89.
-    float: value, kmaut, km, kmh, aut, l.
-    int: type, h, a.
+Utilizando como variáveis: (atenção no valor dos combustíveis, que deve ser atualizado com base em época e região).  
+    float: gas = 3.89, et = 2.29, ds = 2.89, value, kmaut, km, kmh, aut, l // int: type, h, a.
 
         cout<<"Bem vindo ao auxiliador de viagens!"<<endl;
         cout<<"Favor Inserir a distância a ser percorrida (km): ";
